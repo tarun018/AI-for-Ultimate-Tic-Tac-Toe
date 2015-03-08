@@ -9,3 +9,4 @@ Run simulator1.py with command line argument as follows:
 
 3 - Manual Player vs Manual Player
 
+New Rules are as mentioned in the miniproject1_AI_revised2.pdf
